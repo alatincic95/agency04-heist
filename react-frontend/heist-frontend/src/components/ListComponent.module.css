@@ -1,0 +1,36 @@
+.top {
+  margin-top: 20px;
+}
+
+.add {
+}
+.add:hover {
+  background-color: white;
+}
+
+.btnsize {
+  text-align: center;
+  margin-left: 2px;
+  width: 36%;
+}
+.btn1 {
+}
+.btn1:hover {
+  background-color: lightcoral;
+}
+
+.btn2 {
+}
+.btn2:hover {
+  background-color: red;
+}
+
+.btnsize:hover {
+  background-color: lightblue;
+}
+
+.btn3 {
+}
+.btn3:hover {
+  background-color: lightgreen;
+}
